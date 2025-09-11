@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "TF2 Build";
-    src: url(C:\Users\darke\repos\tfx_project\assets\fonts\tf2_build\tf2build.ttf);
+    font-family: "TF2";
+    src: url(assets/fonts/tf2_build/tf2build.ttf);
 }
 html {
     font-size: 22px;
@@ -9,5 +9,5 @@ h1, h2, p {
     text-align: center;
 }
 h1 {
-    font-family: "TF2 Build";
+    font-family: "TF2";
 }
