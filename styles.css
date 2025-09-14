@@ -5,10 +5,17 @@
 html {
     font-size: 22px;
     background-color: gray;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 20%;
 }
 h1, h2, p {
     text-align: center;
 }
 h1 {
     font-family: "TF2";
+}
+.news {
+    background-color: #D9C9B5;
 }
